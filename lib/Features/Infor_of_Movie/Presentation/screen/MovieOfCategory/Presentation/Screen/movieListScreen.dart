@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import '../../../Components/ErrorScreen.dart';
-import '../../../Components/Loading.dart';
+import '../../../../../../Components/ErrorScreen.dart';
+import '../../../../../../Components/Loading.dart';
 import '../../Domain/Entities/Categories.dart';
 import '../../Domain/Entities/MovieOfCategories.dart';
 import '../Cubits/movieCubit.dart';
